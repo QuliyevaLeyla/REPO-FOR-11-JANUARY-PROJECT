@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+h2{
+    margin: 10px 0;
+}
+
+.center{
+    padding: 0.150px 16px;
+}
+
+p{
+    margin: 15px 0;
+    text-align: center;
+}
+
+.container{
+    padding: 0.150px 16px;
+}
+
+.card{
+    box-shadow: 0 4px 10px 0 rgb(0 0 0 / 20%), 0 4px 20px 0 rgb(0 0 0 / 19%);
+}
